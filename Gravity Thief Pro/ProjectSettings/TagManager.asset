@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Normal Enemy
+  - Spikes
+  - Terrain
+  - DashArrow
+  - Torch
+  - FlyEnemy
+  - Door
+  - FollowCam
+  - TriggerDoubleJump
+  - TriggerLongDash
+  - TriggerCanAttack
+  - FlashObject
+  - MoveObject
+  - DisappearObject
+  - RotateObject
+  - Moving Spikes
+  - Stoppable Moving Platform
+  - TowerSkin
+  - NarrativeCollider1
+  - NarrativeCollider2
+  - NC1
+  - NCStart2
+  - NCLYF2
+  - NCEnemy2
+  - NCGameStart
+  - NCStart3
+  - NC3GetAttack
+  - NC3Terminal
+  - TaoMuJian
+  - NCFirstTorch
+  - NC4Start
+  - NC4GetTorch
+  - NC5Start
+  - NC5TaiHeDian
+  - NC5Finish
+  - NC6Start
+  - NC6BDLG
+  - NC6Finish
+  - NC7Start
+  - JingYunZhong
+  - NC8Start
+  - NC8EnterDiGong
+  - NC8ExitDiGong
+  - Level4Torch
+  - Level5Collections
+  - Level5Book
+  - Level6Collection
+  - NC8NearTowerSkin
+  - Level8FoZhu
+  - Level4BigTorch
+  - Level4FengHuoTai
+  - NC3Ending
+  - NC3EndingStart
+  - StaticEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 1
+  - name: Back
+    uniqueID: 2935030877
+    locked: 0
+  - name: Fore
+    uniqueID: 2654911129
+    locked: 0
+  - name: front
+    uniqueID: 1190901595
+    locked: 0
