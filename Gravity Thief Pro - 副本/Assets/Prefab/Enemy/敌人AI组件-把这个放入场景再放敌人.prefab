@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8620142537106770473
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8620142537106770479}
+  - component: {fileID: 8620142537106770478}
+  m_Layer: 5
+  m_Name: "\u654C\u4EBAAI\u7EC4\u4EF6-\u628A\u8FD9\u4E2A\u653E\u5165\u573A\u666F\u518D\u653E\u654C\u4EBA"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8620142537106770479
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8620142537106770473}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8620142537106770478
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8620142537106770473}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78396926cbbfc4ac3b48fc5fc34a87d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
+  data:
+    dataString: UEsDBBQAAAgIAABAIey9txovegIAADwFAAALACQAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFlVMFy2jAQ/RVG58LYBGzorQVCekjChHZy8UVYa6xBljySHCAZ/r1a2cauywX5vd23u09rfxEuTQmpVXqrOXtWDMj3EcEz+TbqyCe40KOSe/4Jbcw7ZzbHIOpj3qjlyuEhphlVgNU8/SGPAoMDB1aSZ0oXG3aElTLWODijwoCjtLKYLR30NSIX9zdeYsrVnaYxnj7daRmMbu6YgrSge6HRZOl/82mTEtbAIlg2mQ+TeRxNo2gWb8ZB7FUqmQpalMBwpE5sHte5Uas1i3y4dEM3kThgqoTgpumY2GvpHdmXOWhASxinzgDfZThBqRz4Mbc4Tj/7NcsM2MYfTa9rrp2TtSz5qWp7C2pOdYMfVFRYKJr7nmrN5//ocejpTKviqS0bBljC5jw9vdFrSo3t2d+H173OvU1nKk70IOA9B/mitlpVkjnS6gpTKwPTdfd4n2yVQ3rq8LrVAViVne/tbbd3jTPc/PCXleDFAanJrAb2Qnm//YqAdjfzyzXsF8g0Eg7FLv4Y+E2P/U1riEeujXVUM6XE9g6q0hhKNt4znKayK6UleLhpugRJhb3unIwd3uCA65UdMI8U36mmeMO1r8ogxcNdfBAMqJ063y/L5Or8DCZ/razgsi+GzIszaqWkrDfMDFjM21c6o2k/71hx9u9ykYeAhmwRhyw6xPPlMh5Hh+kiCMIgXRxmMwYz4rePSzcpFbu61cYgd2+ys1K6TWs/NqOtpqVfd6bpecs/C9UznctM7VMNIF9rhXvnoF0R916yDePOoj1Yy6W/cfKVEKHSE7DkLpT4UTcXq2nSqSSk5B/KIpKQlf+6JATh+zbvNHxwOGPxVuxGbn8BUEsDBBQAAAgIAABAIewvp6jwbQAAAHgAAAAJACQAbWV0YS5qc29uCgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0Bq1YqSy0qzszPU7JSMNEz0jM011FQSi9KLMgoBooYgjilmSkgdrSSsUGiYYqFuWGKWZK5qaWlua5ZkpGFgYGhQbJFkolJSqqJUixQfUllQapfYm4qRE9AYklGWmZeSmZeup57UWaKO8hopdhaAFBLAQItABQAAAgIAABAIey9txovegIAADwFAAALACQAAAAAAAAAAAAAAAAAAABncmFwaDAuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAVBLAQItABQAAAgIAABAIewvp6jwbQAAAHgAAAAJACQAAAAAAAAAAAAAAMcCAABtZXRhLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFQSwUGAAAAAAIAAgC4AAAAfwMAAAAA
+    upgradeData: 
+    file_cachedStartup: {fileID: 0}
+    data_cachedStartup: 
+    cacheStartup: 0
+  showNavGraphs: 1
+  showUnwalkableNodes: 1
+  debugMode: 0
+  debugFloor: 0
+  debugRoof: 1
+  manualDebugFloorRoof: 0
+  showSearchTree: 0
+  unwalkableNodeDebugSize: 0.3
+  logPathResults: 1
+  maxNearestNodeDistance: 100
+  scanOnStartup: 1
+  fullGetNearestSearch: 0
+  prioritizeGraphs: 0
+  prioritizeGraphsLimit: 1
+  colorSettings:
+    _SolidColor: {r: 0.11764706, g: 0.4, b: 0.7882353, a: 0.9}
+    _UnwalkableNode: {r: 1, g: 0, b: 0, a: 0.5}
+    _BoundsHandles: {r: 0.29, g: 0.454, b: 0.741, a: 0.9}
+    _ConnectionLowLerp: {r: 0, g: 1, b: 0, a: 0.5}
+    _ConnectionHighLerp: {r: 1, g: 0, b: 0, a: 0.5}
+    _MeshEdgeColor: {r: 0, g: 0, b: 0, a: 0.5}
+    _AreaColors:
+    - {r: 0, g: 0, b: 0, a: 0}
+  tagNames:
+  - Basic Ground
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 22
+  - 23
+  - 24
+  - 25
+  - 26
+  - 27
+  - 28
+  - 29
+  - 30
+  - 31
+  heuristic: 2
+  heuristicScale: 1
+  threadCount: 1
+  maxFrameTime: 10
+  batchGraphUpdates: 0
+  graphUpdateBatchingInterval: 0.2
+  euclideanEmbedding:
+    mode: 0
+    seed: 0
+    pivotPointRoot: {fileID: 0}
+    spreadOutCount: 1
+  showGraphs: 1
