@@ -1,4 +1,0 @@
-repository "Gravity Thief Pro@project-gravity-thief@cloud.cn"
-  path "/"
-    smartbranch "/main/Eng test"           
-     
