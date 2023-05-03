@@ -3,5 +3,5 @@ CLICK the "Releases" on the right to DOWNLOAD and PLAY the game!
 
 Gravity Thief is originally hosted on PlasticHub China, which doesn't allow public repository due to censorship. So, I put the final source code and the PLAYABLE PC version of the game here. (I translated the menus into English for my portfolio, but the story parts are not translated)
 
-*screenshot of the repository on Plastic Hub China:
+*screenshot of the repository on Plastic Hub China (Yifan Zhao is me, the host of this repository, in charged of most of the code and the management of the project):
 ![QQ图片20221113180733](https://user-images.githubusercontent.com/59587411/201519260-da666547-88df-472c-ae2f-16876ceb663d.png)
